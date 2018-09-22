@@ -1,6 +1,6 @@
 {
   "name": "hapi-spa-serve",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Serve a single-page-app from hapi using inert",
   "main": "src/index.js",
   "scripts": {
