@@ -24,7 +24,7 @@ module.exports = (server, {assets, path: spaPath, options}) => {
 
   server.route({
     method: 'GET',
-    path: '/',
+    path: spaPath,
     options,
     handler: async (request, h) => {
       return h.file(path.join(assets, 'index.html'), {confine: false})
