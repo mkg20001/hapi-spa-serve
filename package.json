@@ -1,0 +1,25 @@
+{
+  "name": "hapi-spa-serve",
+  "version": "0.1.0",
+  "description": "Serve a single-page-app from hapi using inert",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hapi",
+    "spa",
+    "inert",
+    "serve"
+  ],
+  "author": "Maciej Krüger <mkg20001@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkg20001/hapi-spa-serve.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mkg20001/hapi-spa-serve/issues"
+  },
+  "homepage": "https://github.com/mkg20001/hapi-spa-serve#readme"
+}
